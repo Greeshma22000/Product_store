@@ -1,5 +1,5 @@
 import React from 'react'
-import {Box, Button} from "@chakra-ui/react"
+import {Box} from "@chakra-ui/react"
 import { Route, Routes } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import HomePage from './pages/HomePage'
